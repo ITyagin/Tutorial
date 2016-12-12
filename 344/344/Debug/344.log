@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\admin\documents\visual studio 2015\projects\344\344\source.cpp(5): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\visual studio 2015\projects\344\344\source.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\visual studio 2015\projects\344\344\source.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\visual studio 2015\projects\344\344\source.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\visual studio 2015\projects\344\344\source.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\visual studio 2015\projects\344\344\source.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\visual studio 2015\projects\344\344\source.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+  344.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\344\Debug\344.exe
+  344.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\344\Debug\344.pdb (Partial PDB)

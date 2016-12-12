@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\admin\documents\visual studio 2015\projects\041216-circ_buff\041216-circ_buff\source.cpp(78): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\admin\documents\visual studio 2015\projects\041216-circ_buff\041216-circ_buff\source.cpp(73): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\admin\documents\visual studio 2015\projects\041216-circ_buff\041216-circ_buff\source.cpp(105): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void CircularBuffer<int,5>::printBuffer(void)"
+  c:\users\admin\documents\visual studio 2015\projects\041216-circ_buff\041216-circ_buff\source.cpp(96): note: см. ссылку на создание экземпляров класса шаблон при компиляции "CircularBuffer<int,5>"
+  041216-circ_buff.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\041216-circ_buff\Debug\041216-circ_buff.exe
+  041216-circ_buff.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\041216-circ_buff\Debug\041216-circ_buff.pdb (Partial PDB)

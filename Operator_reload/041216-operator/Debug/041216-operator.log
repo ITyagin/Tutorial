@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(41): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(56): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(57): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(62): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(63): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\projects\041216-operator\041216-operator\source.cpp(72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  041216-operator.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\041216-operator\Debug\041216-operator.exe
+  041216-operator.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\041216-operator\Debug\041216-operator.pdb (Partial PDB)
